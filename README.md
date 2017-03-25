@@ -113,4 +113,5 @@
 [The Discipline of Machine LearningTom Mitchell](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf) 当年为在CMU建立机器学习系给校长写的东西。
 [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) Pedro Domingos教授的大道理，也许入门时很多概念还不明白，上完公开课后一定要再读一遍。
 
-#其它
+#其它  
+[矩阵求导](https://zhuanlan.zhihu.com/p/24709748)
