@@ -113,5 +113,97 @@
 [The Discipline of Machine LearningTom Mitchell](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf) 当年为在CMU建立机器学习系给校长写的东西。
 [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) Pedro Domingos教授的大道理，也许入门时很多概念还不明白，上完公开课后一定要再读一遍。
 
-#其它  
+# 其它  
 [矩阵求导](https://zhuanlan.zhihu.com/p/24709748)
+---------------------------------------------------------------------------------------------------------------------------
+# 我自己的学习计划
+
+已经大致了解这个领域所用到的知识，根据网上的参考进行1.0阶段的学习，看了前面的知道我对PGM特别感兴趣啊，所以感谢夕小瑶(wx:xixiaoyaoQAQ)按照她的提供的知识结构给自己定个计划。  已经完成的都会带有我在学习过程中见到比较好的资料，或者我自己总的，这样减少大家在学习过程中找资料的成本
+
+## 第一阶段(五月到六月)：基本模型
+辅助用视频Ng的courses《machine learning》，台湾国立大学林老师《机器学习基石》、《数据挖掘导论》第4、5章
+- [感知机(Perceptron)](http://www.jianshu.com/p/f5c3bce6b7ec)(已完成)
+- [线性回归模型(Linear regression model) ](http://www.jianshu.com/p/631889a1d1e3) (已完成)
+- [逻辑回归模型(Logistic regression model) ](http://www.jianshu.com/p/4db93e9f38af)（已完成）
+- [浅层神经网络(Neural Network) ](http://www.cnblogs.com/subconscious/p/5058741.html)(已完成)
+- [支持向量机(Support Vector Machine)](http://www.jianshu.com/p/8c5131f933b5)(已完成)
+- [交叉验证(Cross Validation)[[1]]](https://zhuanlan.zhihu.com/p/23798202?refer=rdatamining) [[2]](https://zhuanlan.zhihu.com/p/24825503) [[3]](https://www.zhihu.com/question/39259296) [[4]](http://blog.sina.com.cn/s/blog_67f37e760100yes5.html)(已完成)
+- [聚类[1]](https://zhuanlan.zhihu.com/p/21387568) (已完成)
+  - [K-Means Model [1]](https://zhuanlan.zhihu.com/p/20432322) [[2]](https://zhuanlan.zhihu.com/p/20445085)
+- 内积与映射，线性相关/无关，特征值/特征向量、特征向量、特征分解、矩阵的迹、奇异值分解(SVD)、谱定理
+
+## 第二阶段（七月~）：最优化
+复习《概率论与数理统计》、理解《Deep Learning》中的4.3节和4.4节，《Numerical Optimazation》、《最优化理论与方法》袁亚湘，孙文瑜、《统计学习方法》、《数据 挖掘导论》、《机器学习实战》、《智能优化方法》
+- 一阶无约束优化算法
+  - 梯度下降法（步长的确定方法、线搜索法，信赖域法）
+- 二阶无约束优化算法
+  - 牛顿法
+  - 共轭梯度法
+  - 拟牛顿法
+- 约束优化算法
+  - 线性规划(概念与应用、单纯形法、内点法）
+  - 二次规划(概念与应用、对偶法、积极集法）
+  - 拉格朗日乘子法的简单认识
+- 感知机模型
+- K近邻模型
+- 朴素贝叶斯模型
+- 决策树模型
+- 支持向量机模型
+- 集成分类器
+  - Bagging
+  - Boosting
+  - Random Forest
+- 遗传算法
+- 模拟退火
+- 禁忌搜索算法
+- 蚁群算法
+- 粒子群优化算法
+- [LDA/PCA](http://www.cnblogs.com/LeftNotEasy/archive/2011/01/08/lda-and-pca-machine-learning.html)
+- [SVD](http://www.cnblogs.com/LeftNotEasy/archive/2011/01/19/svd-and-applications.html)
+
+## 第三阶段：模式识别与深度学习
+- 贝叶斯决策（《模式分类》）
+- 参数估计
+- 非参数方法
+- 线性判别函数
+- 浅层神经网络
+    - delta方法
+    - BP算法及其优化
+    - RBF网络
+- 深度神经网络（DL中文版书籍）
+   - Hopfield网络
+   - 玻尔兹曼机
+   - RBM
+   - DBN
+   - DBM
+   - CNN
+   - Autoencoder
+   - RNN
+   - LSTM
+- 聚类
+  - 高斯混合密度
+  - K-means
+  - 层次聚类
+- 决策树与随机森林
+- 特征提取与特征选择
+
+## 第四阶段：
+
+应该是各种框架和工程，比赛吧，哈哈，到这个阶段就有自己的方向，现在自己也不知道干啥，哈哈哈
+
+
+
+
+## 贯穿始终：
+
+知识点：(每一周深入学习一种网络)
+《统计学习方法》、《Deep Learning》、《模式分类》
+
+- 前馈神经网络
+- 自编码器(Auto-Encoder)递归神经网络(Recursive NN) / 循环神经网络(RNN)/ 卷积神经网络(CNN) / 神经张量网络 (NTN)
+- 长短时记忆网络(LSTM) / 卷积长短时神经网络(convLSTM) / 张量递归神经网络(MV-RNN)/递归神经张量网络(RNTN)
+- 受限波尔兹曼机(RBM) / 玻尔兹曼机
+
+- 概率图模型
+ - 有向图模型->贝叶斯网络
+ - 无向图模型->马尔科夫随机场->条件随机场
