@@ -1,6 +1,6 @@
-# ML-NLP-AI-
+
 机器学习/人工智能/自然语言处理资料收集
-#ML内家心法资料整理 持续更新ing
+
 目录：
 - [基础概念和认知](#1)
 - [入门](#2)
@@ -9,11 +9,11 @@
 - [博客论坛期刊](#5)
 - [文章-论文](#6)
 - [其它](#7)
-
+- 我的学习路线和计划
 # 基础概念和认知：
-[机器学习](http://zh.wikipedia.org/zh/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0) 机器学习是近20多年兴起的一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。机器学习理论主要是设计和分析一些让计算机可以自动“学习”的算法。机器学习算法是一类从数据中自动分析获得规律，并利用规律对未知数据进行预测的算法。因为学习算法中涉及了大量的统计学理论，机器学习与统计推断学联系尤为密切，也被称为统计学习理论。算法设计方面，机器学习理论关注可以实现的，行之有效的学习算法。
+[机器学习](http://zh.wikipedia.org/zh/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0) 机器学习是近20多年兴起的一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。机器学习理论主要是设计和分析一些让计算机可以自动“学习”的算法。机器学习算法是一类从数据中自动分析获得规律，并利用规律对未知数据进行预测的算法。因为学习算法中涉及了大量的统计学理论，机器学习与统计推断学联系尤为密切，也被称为统计学习理论。算法设计方面，机器学习理论关注可以实现的，行之有效的学习算法。下面是ML比较完备的知识技能图
 
-![ML和其他学科关系的地铁图](http://upload-images.jianshu.io/upload_images/744392-ff8a7eb9953e7f95.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![ML知识技能图](http://upload-images.jianshu.io/upload_images/744392-ff8a7eb9953e7f95.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
  - [机器学习与数据挖掘的区别](https://en.wikipedia.org/wiki/Machine_learning#Machine_learning_and_data_mining)
@@ -33,37 +33,42 @@
 
 # 书籍
 
-### 科普
-- 《数学之美》作者：吴军
-- 《 Mathematician's Lament | 数学家的叹息》作者：by Paul Lockhart
-- 《 Think Stats: Probability and Statistics for Programmers | 统计思维：程序员数学之概率统计 》 作者：Allen B. Downey
-- 《 A History of Mathematics | 数学史 》作者：Carl B. Boyer
-- 《 Journeys Through Genius | 天才引导的历程：数学中的伟大定理 》作者：William Dunham
-- 《 The Mathematical Experience | 数学经验 》作者 Philip J.Davis、Reuben Hersh
-- 《 Proofs from the Book | 数学天书中的证明 》作者：Martin Aigner、Günter M. Ziegler
-- 《 Proofs and Refutations | 证明与反驳－数学发现的逻辑 》作者：Imre Lakatos
+### 数学
+- [《数学之美》](https://book.douban.com/subject/10750155/)作者：吴军  讲述数学在NLP语音等方面应用
+- [《程序员的数学系列》](https://book.douban.com/subject_search?search_text=程序员的数学&cat=1001)这套共三本含高数，线代，统计。写的很好
+- [《线性代数应该这样学》](https://book.douban.com/subject/26886299/) 从本质来讲，让你耳目一新，我就感觉线代白学了  
+- [《The Elements of Statistical Learning》](https://book.douban.com/subject/1761179/)后期精进可以可以读读，挺难的
+- [《统计学习方法》](https://book.douban.com/subject/10590856/)作者：李航 讲解统计的一些方法。是机器学习的数学基础，另外需要线性代数，概率论，统计学等数学知识 **后面阶段少不了推算公式的**
 
-### 深一层次
-- 《统计学习方法》作者：李航 讲解统计的一些方法。是机器学习的数学基础，另外需要线性代数，概率论，统计学等数学知识 **后面阶段少不了推算公式的**
-- 《机器学习》西瓜书 作者：周志华。 本人读过入门级拿西瓜做案例很清晰，
-- 《机器学习》花书，最近中文版要出版了。
-- 《机器学习》作者Mitchell。Mitchell是机器学习的鼻祖，第一个提出机器学习概念的人。这本书很薄，很简单。内容很陈旧，但是都是机器学习的经典问题。而且，这本书概念清晰正确(很可贵啊，又简单又正确的书，说明作者功力很强)。
+
+
+### ML&&NLP
+
+- [《机器学习》](https://book.douban.com/subject/26708119/)西瓜书 作者：周志华。 本人读过入门级拿西瓜做案例很清晰，没有数学基础还是不要看，特别是程序员，因为周老师层次偏学术。
+- [《DeepLearning》](https://github.com/exacity/deeplearningbook-chinese)花书，最近中文版要出版了,称为圣书。
+- [《机器学习》](https://book.douban.com/subject/1102235/)作者Mitchell。Mitchell是机器学习的鼻祖，第一个提出机器学习概念的人。这本书很薄，很简单。内容很陈旧，但是都是机器学习的经典问题。而且，这本书概念清晰正确(很可贵啊，又简单又正确的书，说明作者功力很强)。
 
 - 《神经网络与机器学习》作者：Simon Haykin。 事实上，现在常见的很多机器学习算法都发端于神经网络，像SVM，深度学习，CNN等等。这本书详细的介绍了神经网络及其相关算法的所有细节。如果想深入了解的话，可以看一下。只想运用的话，也可以随便翻翻算法的介绍。
-- 《人工智能：一种现代的方法》作者：AIMA。基本上学术界的人们都认为机器学习是人工智能学科的下属分支(另一部分人认为是统计学或者数学的分支)，所以，一本人工智能的书也是学习机器学习可以参考的方面。
-- 《模式识别与机器学习》不推荐
-- 《集体编程智慧》代码丰富但缺少理论
+- 《模式识别与机器学习》马春鹏 有数学基础再搞，不然很难受
+- 《集体编程智慧》代码丰富，结合理论搞
 - 《机器学习算法原理与编程实战》有理论有代码
 - 《机器学习实战》推荐
-- 更新中
+- 《数据挖掘导论》
+
+-----------------------
+-  NLP[自然语言处理怎么最快入门](https://www.zhihu.com/question/19895141/answer/20084186?utm_medium=social&utm_source=weibo)
+- [统计自然语言处理](https://book.douban.com/subject/3076996/)
+- [信息检索导论](https://book.douban.com/subject/5252170/)
+
+- 资料已经完全够了，没有必要再贪多了，有积累看论文才是王道
+
 # 视频教程
 ### 一、基本功
 数学基础机器学习必要的数学基础主要包括：
-- 多元微积分，线性代数
- - [Calculus: Single Variable](https://www.coursera.org/learn/single-variable-calculus) | [Calculus One](https://www.coursera.org/learn/calculus1) （可选）
- - [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
- - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
- - 以上是国外课程，自己拿大学相关课本看看或者到网易公开课找
+- 线性代数
+    [只推荐MIT的Gilbert Strang](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)
+  
+ 
 - 统计基础
     - [Introduction to Statistics: Descriptive Statistics](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)
     - [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) | [概率](http://open.163.com/special/Khan/probability.html) ( 可选)
@@ -78,14 +83,16 @@
  ### 二、修行
 - [2014 Andrew Ng (Stanford)机器学习](https://www.coursera.org/course/ml):英文原版视频 这就是针对自学而设计的，免费还有修课认证。“老师讲的是深入浅出，不用太担心数学方面的东西。而且作业也非常适合入门者，都是设计好的程序框架，有作业指南，根据作业指南填写该完成的部分就行。”
 - [2016年 林軒田(国立台湾大学) 機器學習基石 (Machine Learning Foundations) -- 内容更适合进阶，華文的教學講解](https://www.youtube.com/user/hsuantien/playlists)
+- [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) Hinton的大牛课程，可想而知
 - [没有公式，没有代码的深度学习入门视频，每集五分钟](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
-- [2011 Tom Mitchell(CMU)机器学习](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml):英文原版视频与课件PDF 他的《机器学习》在很多课程上被选做教材，有中文版。
-- [2013年Yaser Abu-Mostafa (Caltech) Learning from Data -- 内容更适合进阶](http://work.caltech.edu/lectures.html)
-- [Caltech机器学习视频教程库，每个课题一个视频](http://work.caltech.edu/library/)
+- [CS231N Stanford winter 2016FeiFei](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) 计算机视觉大牛李飞飞的课程
+- [CS224N NLP Winter 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) 搞NLP的可以看看，最新前言课程
+
 - [tornadomeet机器学习笔记](http://www.cnblogs.com/tornadomeet/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
+- 上面学好了，足够了
 
-
-*中文:*
+### 博客等
+WeChat公众号：机器之心，数盟，量子位，新智元
 
 - [我爱机器学习](http://www.52ml.net/) 
 
@@ -97,12 +104,6 @@
 - [北邮人论坛 >> 学术科技 >> 机器学习与数据挖掘
 ](http://bbs.byr.cn/#!board/ML_DM)
 
-英文
-
-- [机器学习资源大全
-](https://github.com/josephmisiti/awesome-machine-learning)
-- [数据挖掘名站](http://www.kdnuggets.com/)
-- [数据科学中心网站](http://www.datasciencecentral.com/) 
 
 文章-论文
 
@@ -111,7 +112,10 @@
 
 # 其它  
 [矩阵求导](https://zhuanlan.zhihu.com/p/24709748)
+知乎找答案
+
 ---------------------------------------------------------------------------------------------------------------------------
+
 # 我自己的学习计划
 
 已经大致了解这个领域所用到的知识，根据网上的参考进行1.0阶段的学习，看了前面的知道我对PGM特别感兴趣啊，所以感谢夕小瑶(wx:xixiaoyaoQAQ)按照她的提供的知识结构给自己定个计划。  已经完成的都会带有我在学习过程中见到比较好的资料，或者我自己总的，这样减少大家在学习过程中找资料的成本
@@ -203,3 +207,7 @@
 - 概率图模型
  - 有向图模型->贝叶斯网络
  - 无向图模型->马尔科夫随机场->条件随机场
+
+
+
+
