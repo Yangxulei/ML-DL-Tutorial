@@ -75,7 +75,7 @@
     - [Introduction to Statistics: Inference](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x#.U3nU2vmSxhQ)
     - 以上是国外课程，自己拿大学相关课本看看或者到网易公开课找
 - 编程基础
-    - Python，R这些从菜鸟教程还有等等看看文档就行 
+    - Python，R这些从廖雪峰，菜鸟教程还有等等看看文档就行 
     - [Programming for Everybody (Python)](https://www.coursera.org/learn/python)
     - [DataCamp: Learn R with R tutorials and coding challenges(R)](https://www.datacamp.com/)
     - [Introduction to Computer Science:Build a Search Engine & a Social Network](https://https://cn.udacity.com/course/intro-to-computer-science--cs101)
@@ -86,7 +86,7 @@
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) Hinton的大牛课程，可想而知
 - [没有公式，没有代码的深度学习入门视频，每集五分钟](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
 - [CS231N Stanford winter 2016FeiFei](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) 计算机视觉大牛李飞飞的课程
-- [CS224N NLP Winter 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) 搞NLP的可以看看，最新前言课程
+- [CS224N NLP Winter 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) 搞NLP的可以看看，最新前言课程  [slides](https://web.stanford.edu/class/cs224n/syllabus.html)
 
 - [tornadomeet机器学习笔记](http://www.cnblogs.com/tornadomeet/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
 - 上面学好了，足够了
