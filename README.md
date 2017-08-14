@@ -66,21 +66,21 @@
 ### 一、基本功
 数学基础机器学习必要的数学基础主要包括：
 - 线性代数
-    [只推荐MIT的Gilbert Strang](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)
-  
+    [英文无障碍的话只推荐MIT的Gilbert Strang](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)
+    [李宏毅也教过线性代数哦](http://speech.ee.ntu.edu.tw/~tlkagk/courses_LA16.html)
  
 - 统计基础
     - [Introduction to Statistics: Descriptive Statistics](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)
     - [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) | [概率](http://open.163.com/special/Khan/probability.html) ( 可选)
     - [Introduction to Statistics: Inference](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x#.U3nU2vmSxhQ)
-    - 以上是国外课程，自己拿大学相关课本看看或者到网易公开课找
+    - 以上是国外课程，自己拿大学相关课本看看或者到网易公开课找,推荐《程序员的数学之线性代数》
 - 编程基础
     - Python，R这些从廖雪峰，菜鸟教程还有等等看看文档就行 
     - [Programming for Everybody (Python)](https://www.coursera.org/learn/python)
     - [DataCamp: Learn R with R tutorials and coding challenges(R)](https://www.datacamp.com/)
     - [Introduction to Computer Science:Build a Search Engine & a Social Network](https://https://cn.udacity.com/course/intro-to-computer-science--cs101)
 
- ### 二、修行(推荐李宏毅然后后吴恩达深度学习课程)
+ ### 二、修行(推荐李宏毅然后后吴恩达深度学习课程，然后决定走CV OR NLP 再看CS231N 或者 CS224N)
 - [台湾国立大学李宏毅中文教学](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists)讲课幽默易懂，很多不清楚的看了就懂了
 - [吴恩达深度学习新课](https://www.coursera.org/specializations/deep-learning)可以搜单个课程这样可以旁听不要钱
 - [2014 Andrew Ng (Stanford)机器学习](https://www.coursera.org/course/ml):英文原版视频 这就是针对自学而设计的，免费还有修课认证。“老师讲的是深入浅出，不用太担心数学方面的东西。而且作业也非常适合入门者，都是设计好的程序框架，有作业指南，根据作业指南填写该完成的部分就行。”(和林轩田课程二选一)
