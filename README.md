@@ -80,9 +80,11 @@
     - [DataCamp: Learn R with R tutorials and coding challenges(R)](https://www.datacamp.com/)
     - [Introduction to Computer Science:Build a Search Engine & a Social Network](https://https://cn.udacity.com/course/intro-to-computer-science--cs101)
 
- ### 二、修行
-- [2014 Andrew Ng (Stanford)机器学习](https://www.coursera.org/course/ml):英文原版视频 这就是针对自学而设计的，免费还有修课认证。“老师讲的是深入浅出，不用太担心数学方面的东西。而且作业也非常适合入门者，都是设计好的程序框架，有作业指南，根据作业指南填写该完成的部分就行。”
-- [2016年 林軒田(国立台湾大学) 機器學習基石 (Machine Learning Foundations) -- 内容更适合进阶，華文的教學講解](https://www.youtube.com/user/hsuantien/playlists)
+ ### 二、修行(推荐李宏毅然后后吴恩达深度学习课程)
+- [台湾国立大学李宏毅中文教学](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists)讲课幽默易懂，很多不清楚的看了就懂了
+- [吴恩达深度学习新课](https://www.coursera.org/specializations/deep-learning)可以搜单个课程这样可以旁听不要钱
+- [2014 Andrew Ng (Stanford)机器学习](https://www.coursera.org/course/ml):英文原版视频 这就是针对自学而设计的，免费还有修课认证。“老师讲的是深入浅出，不用太担心数学方面的东西。而且作业也非常适合入门者，都是设计好的程序框架，有作业指南，根据作业指南填写该完成的部分就行。”(和林轩田课程二选一)
+- [2016年 林軒田(国立台湾大学) 機器學習基石 (Machine Learning Foundations) -- 華文的教學講解](https://www.youtube.com/user/hsuantien/playlists)
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) Hinton的大牛课程，可想而知
 - [没有公式，没有代码的深度学习入门视频，每集五分钟](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
 - [CS231N Stanford winter 2016FeiFei](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) 计算机视觉大牛李飞飞的课程
