@@ -44,8 +44,8 @@
 
 ### ML&&NLP
 
-- [《机器学习》](https://book.douban.com/subject/26708119/)西瓜书 作者：周志华。 本人读过入门级拿西瓜做案例很清晰，没有数学基础还是不要看，特别是程序员，因为周老师层次偏学术。
-- [《DeepLearning》](https://github.com/exacity/deeplearningbook-chinese)花书，最近中文版要出版了,称为圣书。
+- [《机器学习》](https://book.douban.com/subject/26708119/)西瓜书 作者：周志华。 本人读过入门级拿西瓜做案例很清晰，没有数学基础还是不要看，特别是程序员，因为周老师层次太高偏学术。
+- [《DeepLearning》](https://github.com/exacity/deeplearningbook-chinese)花书，最近中文版要出版了,称为圣书，这个可以慢慢啃，绝对要看的。
 - [《机器学习》](https://book.douban.com/subject/1102235/)作者Mitchell。Mitchell是机器学习的鼻祖，第一个提出机器学习概念的人。这本书很薄，很简单。内容很陈旧，但是都是机器学习的经典问题。而且，这本书概念清晰正确(很可贵啊，又简单又正确的书，说明作者功力很强)。
 
 - 《神经网络与机器学习》作者：Simon Haykin。 事实上，现在常见的很多机器学习算法都发端于神经网络，像SVM，深度学习，CNN等等。这本书详细的介绍了神经网络及其相关算法的所有细节。如果想深入了解的话，可以看一下。只想运用的话，也可以随便翻翻算法的介绍。
@@ -53,7 +53,8 @@
 - 《集体编程智慧》代码丰富，结合理论搞
 - 《机器学习算法原理与编程实战》有理论有代码
 - 《机器学习实战》推荐
-- 《数据挖掘导论》
+- 《数据挖掘导论》我学习过程中必不可少
+
 
 -----------------------
 -  NLP[自然语言处理怎么最快入门](https://www.zhihu.com/question/19895141/answer/20084186?utm_medium=social&utm_source=weibo)
@@ -66,23 +67,24 @@
 ### 一、基本功
 数学基础机器学习必要的数学基础主要包括：
 - 线性代数
-    [英文无障碍的话只推荐MIT的Gilbert Strang](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)
+    [英文无障碍的话推荐MIT的Gilbert Strang](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)
     [李宏毅也教过线性代数哦](http://speech.ee.ntu.edu.tw/~tlkagk/courses_LA16.html)
- 
+    实现不行看看张宇的考研视频也行，再者还是看看程序员的数学
 - 统计基础
     - [Introduction to Statistics: Descriptive Statistics](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)
     - [Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) | [概率](http://open.163.com/special/Khan/probability.html) ( 可选)
     - [Introduction to Statistics: Inference](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x#.U3nU2vmSxhQ)
-    - 以上是国外课程，自己拿大学相关课本看看或者到网易公开课找,推荐《程序员的数学之线性代数》
+    - *以上是国外课程，自己拿大学相关课本看看或者到网易公开课找,推荐《程序员的数学之线性代数》*
 - 编程基础
-    - Python，R这些从廖雪峰，菜鸟教程还有等等看看文档就行 
-    - [Programming for Everybody (Python)](https://www.coursera.org/learn/python)
+    - Python，R这些从廖雪峰，菜鸟教程还有等等看看文档就行 ，numpy，sk，pandas这些库也要会
+    - [Programming for Everybody (Python)](https://www.coursera.org/learn/python)
     - [DataCamp: Learn R with R tutorials and coding challenges(R)](https://www.datacamp.com/)
     - [Introduction to Computer Science:Build a Search Engine & a Social Network](https://https://cn.udacity.com/course/intro-to-computer-science--cs101)
 
  ### 二、修行(推荐李宏毅然后后吴恩达深度学习课程，然后决定走CV OR NLP 再看CS231N 或者 CS224N)
-- [台湾国立大学李宏毅中文教学](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists)讲课幽默易懂，很多不清楚的看了就懂了
+- [台湾国立大学李宏毅中文教学](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists)讲课幽默易懂，很多不清楚的看了就懂了，它还有个PPT合集，堪称一天学完深度学习，浅显易懂可以搜搜
 - [吴恩达深度学习新课](https://www.coursera.org/specializations/deep-learning)可以搜单个课程这样可以旁听不要钱
+  【网易云课堂现在和吴恩达合作了，免费的中文字幕体验更好，作业还在courseras上写吧】
 - [2014 Andrew Ng (Stanford)机器学习](https://www.coursera.org/course/ml):英文原版视频 这就是针对自学而设计的，免费还有修课认证。“老师讲的是深入浅出，不用太担心数学方面的东西。而且作业也非常适合入门者，都是设计好的程序框架，有作业指南，根据作业指南填写该完成的部分就行。”(和林轩田课程二选一)
 - [2016年 林軒田(国立台湾大学) 機器學習基石 (Machine Learning Foundations) -- 華文的教學講解](https://www.youtube.com/user/hsuantien/playlists)
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) Hinton的大牛课程，可想而知
@@ -94,7 +96,7 @@
 - 上面学好了，足够了
 
 ### 博客等
-WeChat公众号：机器之心，数盟，量子位，新智元
+WeChat公众号：机器之心，数盟，量子位，新智元，
 
 - [我爱机器学习](http://www.52ml.net/) 
 
