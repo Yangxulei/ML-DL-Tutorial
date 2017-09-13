@@ -1,5 +1,7 @@
 
-机器学习/人工智能/自然语言处理资料收集
+机器学习/人工智能/自然语言处理资料教程集合
+
+前面基本是我看过的书籍和教程推荐，在最后面有我的学习路线，避免多走弯路，实现高效系统学习。
 
 目录：
 - [基础概念和认知](#1)
@@ -91,7 +93,7 @@
 - [没有公式，没有代码的深度学习入门视频，每集五分钟](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
 - [CS231N Stanford winter 2016FeiFei](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) 计算机视觉大牛李飞飞的课程
 - [CS224N NLP Winter 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) 搞NLP的可以看看，最新前言课程  [slides](https://web.stanford.edu/class/cs224n/syllabus.html)
-
+- [Udacity 的 ML & DL](https://cn.udacity.com/courses/all)  最近刚看的，DL两个人合作以对话形式，很幽默
 - [tornadomeet机器学习笔记](http://www.cnblogs.com/tornadomeet/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
 - 上面学好了，足够了
 
