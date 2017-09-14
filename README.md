@@ -129,6 +129,8 @@ WeChat公众号：机器之心，数盟，量子位，新智元，
 ## 第一阶段(五月到六月)：基本模型
 辅助用视频Ng的courses《machine learning》，台湾国立大学林老师《机器学习基石》、《数据挖掘导论》第4、5章
 - [感知机(Perceptron)](http://www.jianshu.com/p/f5c3bce6b7ec)(已完成)
+   - [如何理解感知机算法的对偶形式](https://www.zhihu.com/question/26526858)
+   - [为什么随机梯度下降方法能够收敛？](https://www.zhihu.com/question/27012077/answer/122359602)
 - [线性回归模型(Linear regression model) ](http://www.jianshu.com/p/631889a1d1e3) (已完成)
 - [逻辑回归模型(Logistic regression model) ](http://www.jianshu.com/p/4db93e9f38af)（已完成）
 - [浅层神经网络(Neural Network) ](http://www.cnblogs.com/subconscious/p/5058741.html)(已完成)
