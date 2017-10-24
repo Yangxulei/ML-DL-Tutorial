@@ -1,3 +1,5 @@
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Yangxulei/ML-DL-Tutorial/blob/master/LICENSE)
+
 
 机器学习/人工智能/自然语言处理资料教程集合
 
