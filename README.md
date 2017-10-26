@@ -98,7 +98,8 @@
 - [Udacity 的 ML & DL](https://cn.udacity.com/courses/all)  最近刚看的，DL两个人合作以对话形式，很幽默
 - [tornadomeet机器学习笔记](http://www.cnblogs.com/tornadomeet/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
 - 上面学好了，足够了
-
+### 笔记
+[入门 | 吴恩达Deeplearning.ai 全部课程学习心得分享](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650732373&idx=2&sn=a9e7e73cf7341e82ab8b803bbcc9a4b0&chksm=871b332bb06cba3d7568b77e5a9067d3e57ab066044cd2617958987805dd2b070feb0c4360a9#rd)
 ### 博客等
 WeChat公众号：机器之心，数盟，量子位，新智元，
 
