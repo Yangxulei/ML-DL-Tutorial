@@ -27,7 +27,7 @@
 - [人工智能只是定义](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD)
 - [机器学习、统计分析、数据挖掘、神经网络、人工智能、模式识别之间的关系是什么？](https://www.zhihu.com/question/20747381)
 
- 
+- [机器学习应该准备哪些数学预备知识？](https://www.zhihu.com/question/36324957/answer/254938339)
 
 # 入门
 
