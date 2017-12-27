@@ -93,13 +93,15 @@
 - [2016年 林軒田(国立台湾大学) 機器學習基石 (Machine Learning Foundations) -- 華文的教學講解](https://www.youtube.com/user/hsuantien/playlists)
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) Hinton的大牛课程，可想而知
 - [没有公式，没有代码的深度学习入门视频，每集五分钟](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
-- [CS231N Stanford winter 2016FeiFei](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) 计算机视觉大牛李飞飞的课程
+- [CS231N Stanford winter 2017FeiFei](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) 计算机视觉大牛李飞飞的课程
 - [CS224N NLP Winter 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) 搞NLP的可以看看，最新前言课程  [slides](https://web.stanford.edu/class/cs224n/syllabus.html)
 - [Udacity 的 ML & DL](https://cn.udacity.com/courses/all)  最近刚看的，DL两个人合作以对话形式，很幽默
 - [tornadomeet机器学习笔记](http://www.cnblogs.com/tornadomeet/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
 - 上面学好了，足够了
 ### 笔记
-[入门 | 吴恩达Deeplearning.ai 全部课程学习心得分享](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650732373&idx=2&sn=a9e7e73cf7341e82ab8b803bbcc9a4b0&chksm=871b332bb06cba3d7568b77e5a9067d3e57ab066044cd2617958987805dd2b070feb0c4360a9#rd)
+- [入门 | 吴恩达Deeplearning.ai 全部课程学习心得分享](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650732373&idx=2&sn=a9e7e73cf7341e82ab8b803bbcc9a4b0&chksm=871b332bb06cba3d7568b77e5a9067d3e57ab066044cd2617958987805dd2b070feb0c4360a9#rd)
+- [吴恩达机器学习学习笔记(中文版)](https://zhuanlan.zhihu.com/p/30826357)
+- [吴恩达深度学习笔记(中文版)](https://zhuanlan.zhihu.com/p/31826031) 
 ### 博客等
 WeChat公众号：机器之心，数盟，量子位，新智元，
 
@@ -201,7 +203,10 @@ WeChat公众号：机器之心，数盟，量子位，新智元，
 
 ## 第四阶段：
 
-应该是各种框架和工程，比赛吧，哈哈，到这个阶段就有自己的方向，现在自己也不知道干啥，哈哈哈
+学习大数据框架Hadoop，Spark
+- [Big data for Data Engineers Specialization](https://github.com/Yangxulei/Big-Date-Specialization)
+
+
 
 
 
